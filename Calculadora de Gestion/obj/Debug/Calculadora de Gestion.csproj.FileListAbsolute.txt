@@ -1,0 +1,11 @@
+C:\Users\marti\source\repos\Calculadora de Gestion\Calculadora de Gestion\bin\Debug\Calculadora de Gestion.exe.config
+C:\Users\marti\source\repos\Calculadora de Gestion\Calculadora de Gestion\bin\Debug\Calculadora de Gestion.exe
+C:\Users\marti\source\repos\Calculadora de Gestion\Calculadora de Gestion\bin\Debug\Calculadora de Gestion.pdb
+C:\Users\marti\source\repos\Calculadora de Gestion\Calculadora de Gestion\obj\Debug\Calculadora de Gestion.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\Calculadora de Gestion\Calculadora de Gestion\obj\Debug\Calculadora de Gestion.csproj.SuggestedBindingRedirects.cache
+C:\Users\marti\source\repos\Calculadora de Gestion\Calculadora de Gestion\obj\Debug\Calculadora_de_Gestion.Properties.Resources.resources
+C:\Users\marti\source\repos\Calculadora de Gestion\Calculadora de Gestion\obj\Debug\Calculadora de Gestion.csproj.GenerateResource.cache
+C:\Users\marti\source\repos\Calculadora de Gestion\Calculadora de Gestion\obj\Debug\Calculadora de Gestion.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Calculadora de Gestion\Calculadora de Gestion\obj\Debug\Calculadora de Gestion.exe
+C:\Users\marti\source\repos\Calculadora de Gestion\Calculadora de Gestion\obj\Debug\Calculadora de Gestion.pdb
+C:\Users\marti\source\repos\Calculadora de Gestion\Calculadora de Gestion\obj\Debug\Calculadora_de_Gestion.Form1.resources
