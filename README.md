@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">OverDriveFX-Gestionderiesgo 👋</h1>
 </div>
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/>
 <img src="muestra.png">
 <p>
 Proyecto personal el cual fue destinado a la academia de trading de OverDriveFX, eficaz y comodo a la hora de ejecutar cuentas de complejidad mientras se hace trading. 
