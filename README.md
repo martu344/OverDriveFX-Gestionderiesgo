@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center">OverDriveFX-Gestionderiesgo 👋</h1>
 </div>
+<div>
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/>
 <img src="muestra.png">
 <p>
@@ -12,3 +13,4 @@ Descarga del archivo ejecutable: <br>
 https://github.com/martu344/OverDriveFX-Gestionderiesgo/raw/main/Calculadora%20de%20Gestion-setup.exe <br>
 se deben dar los permisos necesarios al ser un editor desconocido
 </p>
+</div>
