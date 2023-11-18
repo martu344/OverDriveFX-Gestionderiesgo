@@ -2,7 +2,7 @@
 <h1 align="center">OverDriveFX-Gestionderiesgo 👋</h1>
 </div>
 <div display= "flex">
-<img src="muestra.png">
+<img src="muestra.png" align="center">
 <div>
 <p>
 Proyecto personal el cual fue destinado a la academia de trading de OverDriveFX, eficaz y comodo a la hora de ejecutar cuentas de complejidad mientras se hace trading. 
